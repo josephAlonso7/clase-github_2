@@ -1,0 +1,1 @@
+Este archivo solo es visible en la rama "Nueva funcionalidad"
